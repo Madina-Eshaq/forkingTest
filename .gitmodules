@@ -1,3 +1,6 @@
 [submodule "R-F"]
 	path = R-F
 	url = https://github.com/rohullah-abid/R-F
+[submodule "jan/R-F"]
+	path = jan/R-F
+	url = https://github.com/rohullah-abid/R-F.git
